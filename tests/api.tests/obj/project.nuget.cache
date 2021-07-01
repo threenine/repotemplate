@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Aq993/1mHSKdVqx1r3epP0S0bcBfVnmPZPLGZx5jUz25O0Qa60ZaYQMLE19vCARjfTk7C2To2Z1pty8O/XxLvg==",
+  "dgSpecHash": "09l6RO4UjaS7F+UFyT2jANIHS4jqIfv3ZSWvyuZ+Ex0f8hj0JAuucBe+j6Ze7a5ZFjoZMYRjDEnsVmTAl/mIpA==",
   "success": true,
   "projectFilePath": "/home/gary/code/repotemplate/tests/api.tests/api.tests.csproj",
   "expectedPackageFiles": [
